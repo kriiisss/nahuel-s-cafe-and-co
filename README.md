@@ -1,5 +1,5 @@
 # Nahuel's Café & Co.
-![alt text](nahuels-cafe-&-co/img/logoLanding.png)
+![Nahuel's Café & Co. Logo](nahuels-cafe-&-co/img/logoLanding.png)
 ## ¡Bienvenidos a Nahuel's Café & Co.!
 
 ### Sumérgete en el encanto de una experiencia única en nuestra cafetería, donde la pasión por el café se fusiona con un ambiente acogedor y un servicio excepcional. En Nahuel's Café & Co., no solo te invitamos a disfrutar de exquisitas infusiones y deliciosos bocados, sino que también te ofrecemos un espacio donde cada taza cuenta una historia. 
