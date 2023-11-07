@@ -1,4 +1,4 @@
-<center> # Nahuel's Café & Co. </center>
+# Nahuel's Café & Co.
 ![alt text](nahuels-cafe-&-co/img/logoLanding.png)
 ## ¡Bienvenidos a Nahuel's Café & Co.!
 
